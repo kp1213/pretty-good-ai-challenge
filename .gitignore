@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Ignore generated files but keep folders
+recordings/*.wav
+recordings/*.mp3
+recordings/*.m4a
+
+transcripts/*.txt
+transcripts/*.json
+
+reports/*.pdf
+reports/*.mdh
