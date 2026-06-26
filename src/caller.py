@@ -1,5 +1,5 @@
 from twilio.rest import Client
-from config import (
+from src.config import (
     TWILIO_ACCOUNT_SID,
     TWILIO_AUTH_TOKEN,
     TWILIO_PHONE_NUMBER,
@@ -13,13 +13,7 @@ def place_call():
     call = client.calls.create(
         to=TARGET_PHONE_NUMBER,
         from_=TWILIO_PHONE_NUMBER,
-        twiml="""
-        <Response>
-            <Say voice="alice">
-                Hello, this is a test call from my Pretty Good AI challenge bot.
-            </Say>
-        </Response>
-        """,
+        url="https://version-panoramic-deny.ngrok-free.dev/voice",
     )
 
     print(f"Call started. SID: {call.sid}")
