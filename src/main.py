@@ -1,8 +1,4 @@
-from config import (
-    TWILIO_ACCOUNT_SID,
-    TWILIO_PHONE_NUMBER,
-    TARGET_PHONE_NUMBER,
-)
+from caller import place_call
 
 
 def main():
@@ -10,9 +6,8 @@ def main():
     print("Pretty Good AI Engineering Challenge")
     print("=" * 50)
 
-    print(f"Twilio SID: {TWILIO_ACCOUNT_SID}")
-    print(f"Twilio Number: {TWILIO_PHONE_NUMBER}")
-    print(f"Target Number: {TARGET_PHONE_NUMBER}")
+    call_sid = place_call()
+    print(f"Call SID: {call_sid}")
 
 
 if __name__ == "__main__":
