@@ -15,9 +15,12 @@ def start_transcript() -> Path:
     current_transcript_path = TRANSCRIPTS_DIR / f"call_{timestamp}.txt"
 
     with open(current_transcript_path, "w", encoding="utf-8") as file:
-        file.write("Pretty Good AI Challenge Call Transcript\n")
-        file.write(f"Started at: {datetime.now().isoformat()}\n")
-        file.write("=" * 50 + "\n\n")
+        file.write("=" * 60 + "\n")
+        file.write("Pretty Good AI Engineering Challenge\n")
+        file.write("Call Transcript\n")
+        file.write("=" * 60 + "\n\n")
+        file.write(f"Started at: {datetime.now().isoformat(timespec='seconds')}\n\n")
+        file.write("=" * 60 + "\n\n")
 
     return current_transcript_path
 
@@ -29,8 +32,21 @@ def log_turn(speaker: str, text: str) -> None:
     if current_transcript_path is None:
         start_transcript()
 
+    timestamp = datetime.now().strftime("%H:%M:%S")
+
     with open(current_transcript_path, "a", encoding="utf-8") as file:
-        file.write(f"{speaker}:\n{text}\n\n")
+        file.write(f"[{timestamp}] {speaker}:\n{text}\n\n")
+
+
+def end_transcript() -> None:
+    if current_transcript_path is None:
+        return
+
+    with open(current_transcript_path, "a", encoding="utf-8") as file:
+        file.write("=" * 60 + "\n")
+        file.write("Call Completed\n")
+        file.write(f"Ended at: {datetime.now().isoformat(timespec='seconds')}\n")
+        file.write("=" * 60 + "\n")
 
 
 def get_current_transcript_path():

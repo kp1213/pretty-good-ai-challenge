@@ -14,31 +14,80 @@ def generate_bug_report(transcript_path: Path) -> Path:
     agent_turns = transcript_text.count("Agent:")
     patient_turns = transcript_text.count("Patient:")
 
+    total_turns = agent_turns + patient_turns
+
     report = f"""# Bug Report
 
 ## Metadata
 
-- Generated at: {datetime.now().isoformat()}
-- Transcript: `{transcript_path}`
+- Generated at: {datetime.now().isoformat(timespec="seconds")}
+- Transcript file: `{transcript_path}`
 - Agent turns: {agent_turns}
 - Patient turns: {patient_turns}
+- Total conversation turns: {total_turns}
 
 ## Conversation Summary
 
-Patient bot attempted to complete a healthcare phone interaction using the saved transcript.
+The patient bot attempted to complete a healthcare phone interaction as Alex Johnson, a patient seeking an acute visit for a cough and sore throat.
+
+## Test Objective
+
+Evaluate whether the healthcare phone agent can:
+- Understand the patient's request
+- Collect required patient information
+- Handle appointment scheduling
+- Avoid unnecessary repetition
+- Respond appropriately to clarification requests
+- Complete the call without confusion or premature termination
+
+## Outcome
+
+- [ ] Successful appointment scheduled
+- [ ] Partial completion
+- [ ] Failed to complete task
+- [ ] Call ended unexpectedly
+- [ ] Needs manual review
 
 ## Potential Issues Observed
 
 - [ ] Agent misunderstood patient information
 - [ ] Agent repeated a question unnecessarily
 - [ ] Agent failed to complete the requested task
+- [ ] Agent ignored or mishandled clarification
+- [ ] Agent provided unclear instructions
 - [ ] Agent transferred or ended the call unexpectedly
 - [ ] Patient response sounded unnatural
 - [ ] Speech recognition issue occurred
+- [ ] Long silence or awkward delay occurred
+- [ ] Other issue
 
-## Notes
+## Bug Details
 
-Review the transcript and fill in the specific bugs found during the call.
+### Bug 1
+
+- **Title:** 
+- **Severity:** Low / Medium / High
+- **What happened:** 
+- **Expected behavior:** 
+- **Actual behavior:** 
+- **Evidence from transcript:** 
+- **Possible cause:** 
+- **Suggested improvement:** 
+
+### Bug 2
+
+- **Title:** 
+- **Severity:** Low / Medium / High
+- **What happened:** 
+- **Expected behavior:** 
+- **Actual behavior:** 
+- **Evidence from transcript:** 
+- **Possible cause:** 
+- **Suggested improvement:** 
+
+## Reviewer Notes
+
+Add any additional observations about call quality, realism, transcription accuracy, or agent behavior.
 
 ## Transcript Reference
 

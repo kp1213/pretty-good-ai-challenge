@@ -1,7 +1,11 @@
 from flask import Flask, request
 from twilio.twiml.voice_response import VoiceResponse, Gather
 from src.conversation import get_patient_response, reset_conversation
-from src.transcript_logger import start_transcript, log_turn, get_current_transcript_path
+from src.transcript_logger import (
+    start_transcript,
+    log_turn,
+    get_current_transcript_path,
+)
 from src.bug_report import generate_bug_report
 
 app = Flask(__name__)
@@ -12,6 +16,7 @@ def voice():
     reset_conversation()
     transcript_path = start_transcript()
     print(f"Transcript started: {transcript_path}")
+
     response = VoiceResponse()
 
     gather = Gather(
@@ -65,6 +70,7 @@ def respond():
         print(f"Bug report generated: {report_path}")
 
     return str(response)
+
 
 if __name__ == "__main__":
     app.run(port=5050, debug=True)
