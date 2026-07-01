@@ -14,6 +14,7 @@ def place_call():
         to=TARGET_PHONE_NUMBER,
         from_=TWILIO_PHONE_NUMBER,
         url="https://version-panoramic-deny.ngrok-free.dev/voice",
+        record=True,
     )
 
     print(f"Call started. SID: {call.sid}")
