@@ -1,0 +1,81 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T21:48:50
+
+============================================================
+
+[21:48:57] Agent:
+This call may be recorded for quality and training purposes.
+
+[21:48:58] Patient:
+That's fine.
+
+[21:49:05] Agent:
+Orthopedics part of breeded AI. Am I speaking with Alex?
+
+[21:49:06] Patient:
+I’m Kevin Thompson. I’m not sure if you’re speaking with Alex, but I’m here to establish care as a new patient.
+
+[21:49:18] Agent:
+Please provide the full name and date of birth of the patient. You are calling about.
+
+[21:49:19] Patient:
+My name is Kevin Thompson, and my date of birth is December 5, 1993.
+
+[21:49:36] Agent:
+Just to confirm, I have your name as Kevin Thompson and your data.
+
+[21:49:37] Patient:
+Yes, that's correct.
+
+[21:49:40] Agent:
+Confirm.
+
+[21:49:42] Patient:
+I confirm that my name is Kevin Thompson, and my date of birth is December 5, 1993.
+
+[21:49:53] Agent:
+Your record using the phone. Could you please spell out your first and last name and confirm your date of birth 1 more time?
+
+[21:49:54] Patient:
+Sure! My name is spelled K-E-V-I-N T-H-O-M-P-S-O-N, and my date of birth is December 5, 1993.
+
+[21:50:01] Agent:
+Please spell, your first, and last name and state your date of birth.
+
+[21:50:02] Patient:
+My name is spelled K-E-V-I-N T-H-O-M-P-S-O-N, and my date of birth is December 5, 1993.
+
+[21:50:20] Agent:
+I have your name as Kevin Thompson, your date of birth is December 5th. 1993.
+
+[21:50:20] Patient:
+That's correct.
+
+[21:50:25] Agent:
+your phone number, as
+
+[21:50:26] Patient:
+My phone number is 629-249-5835.
+
+[21:50:37] Agent:
+Thanks for confirming.
+
+[21:50:37] Patient:
+You're welcome!
+
+[21:50:41] Agent:
+Further right now, but I'll make sure our Clinic support team follows up with you.
+
+[21:50:42] Patient:
+Thank you! I appreciate it.
+
+[21:50:52] Agent:
+Buy document this for our team. Connecting you to a representative please. Wait hello you've reached the pretty good. AI test line goodbye.
+
+[21:50:53] Patient:
+It seems there was a mix-up. I'm still here if you need anything else.
+

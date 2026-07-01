@@ -1,0 +1,93 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T20:43:51
+
+============================================================
+
+[20:43:57] Agent:
+this call may be recorded for quality and training purposes, but
+
+[20:43:58] Patient:
+That's fine.
+
+[20:44:06] Agent:
+Orthopedics, part of pretty good Ai. And I speaking with Alex,
+
+[20:44:07] Patient:
+Hi Alex, this is Michael Rodriguez. I'm calling because I need a refill for my Lisinopril 20 mg for high blood pressure. I only have one pill left.
+
+[20:44:14] Agent:
+Please provide your date of birth.
+
+[20:44:14] Patient:
+My date of birth is February 3, 1969.
+
+[20:44:27] Agent:
+The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+
+[20:44:28] Patient:
+I need a refill for my Lisinopril 20 mg because I only have one pill left.
+
+[20:44:46] Agent:
+You need a refill for a lisinopril, 20 mg. How many days will that last you just 1 day left.
+
+[20:44:47] Patient:
+That's correct, I only have one pill left, so it will last me just one day.
+
+[20:44:57] Agent:
+I have 1 day left for your lisinopril. Can I confirm your call back number at 629?
+
+[20:44:58] Patient:
+I'm sorry, I don't have my phone number available right now.
+
+[20:45:03] Agent:
+5835.
+
+[20:45:04] Patient:
+I still don’t have my phone number available.
+
+[20:45:17] Agent:
+No problem. When you have your phone number ready, please let me know so I can continue with your refill request.
+
+[20:45:18] Patient:
+Okay, I will do that. In the meantime, can we proceed with the refill request?
+
+[20:45:27] Agent:
+Sounds good. Just let me know when you're ready to continue with your refill request.
+
+[20:45:28] Patient:
+I'm ready to continue with my refill request now.
+
+[20:45:40] Agent:
+Great. Please provide the best phone number for staff to call you back about your refill.
+
+[20:45:41] Patient:
+I still don’t have my phone number available right now.
+
+[20:45:54] Agent:
+That's all right. I need a call back number to complete your refill request. Let me know when you have it.
+
+[20:45:54] Patient:
+I understand, but I don’t have my phone number at the moment. Is there another way to proceed with the refill?
+
+[20:46:02] Agent:
+No worries.
+
+[20:46:03] Patient:
+Thank you for understanding. Can we continue with the refill request?
+
+[20:46:08] Agent:
+Request. For now when you have your phone number, just call back and we can finish the
+
+[20:46:09] Patient:
+Okay, I appreciate your help. I will call back when I have my phone number. Thank you!
+
+[20:46:18] Agent:
+You're welcome. Have a good day.
+
+[20:46:18] Patient:
+Thank you, you too!
+

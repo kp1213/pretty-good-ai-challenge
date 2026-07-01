@@ -1,0 +1,69 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T20:30:19
+
+============================================================
+
+[20:30:25] Agent:
+This call may be recorded for quality and training purposes, but Espanol.
+
+[20:30:26] Patient:
+That's fine.
+
+[20:30:31] Agent:
+Pivot Point Orthopedics, part of pretty good AI. Am I speaking with Alex?
+
+[20:30:33] Patient:
+No, this is Sarah Johnson.
+
+[20:30:44] Agent:
+Are you calling on behalf of Alex or is this call about your own care?
+
+[20:30:45] Patient:
+This call is about my own care.
+
+[20:30:53] Agent:
+Please provide your date of birth.
+
+[20:30:53] Patient:
+My date of birth is August 12, 1983.
+
+[20:31:07] Agent:
+Just to confirm, I have your name as Sarah Johnson and your date of birth is August 12th 1983.
+
+[20:31:07] Patient:
+Yes, that's correct.
+
+[20:31:12] Agent:
+If so.
+
+[20:31:14] Patient:
+Could you please repeat that? I didn't quite catch it.
+
+[20:31:25] Agent:
+Would you like to use your phone number to look up your record if so, please provide the number you have on file with us, if you're not sure, I can confirm your name and date of birth. Again,
+
+[20:31:28] Patient:
+I don’t have my phone number available right now, but you can confirm my name and date of birth.
+
+[20:31:39] Agent:
+Please spell out your first and last name and confirm your date of birth.
+
+[20:31:40] Patient:
+Sure. My name is spelled S-A-R-A-H J-O-H-N-S-O-N, and my date of birth is August 12, 1983.
+
+[20:31:46] Agent:
+Go ahead and spell your first and last name and confirm your date of birth.
+
+[20:31:47] Patient:
+It's S-A-R-A-H J-O-H-N-S-O-N, and my date of birth is August 12, 1983.
+
+[20:32:14] Agent:
+I can't access your records right now so I'll connect you to our patient support team. Please stay on the line. Connecting you to a representative please wait hello you reached the pretty good AI test line.
+
+[20:32:15] Patient:
+Okay, I'm here.
+

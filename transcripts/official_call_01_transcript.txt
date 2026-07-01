@@ -1,0 +1,63 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T20:17:00
+
+============================================================
+
+[20:17:06] Agent:
+This call may be recorded for quality and training purposes.
+
+[20:17:08] Patient:
+That's fine.
+
+[20:17:15] Agent:
+Part of pretty good AI. Am I speaking with Alex?
+
+[20:17:16] Patient:
+Yes, this is Alex Johnson.
+
+[20:17:24] Agent:
+Please provide your date of birth.
+
+[20:17:25] Patient:
+My date of birth is May 15, 1992.
+
+[20:17:40] Agent:
+The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+
+[20:17:41] Patient:
+I've had a cough and sore throat for about four days and would like to be seen.
+
+[20:17:59] Agent:
+You need to be seen for Urgent symptoms just to confirm. Are you looking to book an acute visit for your cough and sore throat?
+
+[20:18:00] Patient:
+Yes, I'm looking to book an acute visit for my cough and sore throat.
+
+[20:18:11] Agent:
+Do you have a specific provider? You'd like to see or are you open to the first available?
+
+[20:18:12] Patient:
+I'm open to the first available provider.
+
+[20:18:27] Agent:
+You already have an acute visit booked, if you'd like I can help you reschedule or cancel that appointment, would you like to make a change or do you want to speak with someone from our team?
+
+[20:18:28] Patient:
+I wasn't aware of a previous appointment. I'd like to go ahead and schedule a new acute visit instead.
+
+[20:18:40] Agent:
+No problem. I can connect you with a team member who can review your appointments and help sort this out. Would you like me to transfer you now?
+
+[20:18:41] Patient:
+Yes, please transfer me to a team member. Thank you.
+
+[20:18:56] Agent:
+Can I continue to a representative please? Wait hello you've reached the pretty good. AI test line goodbye.
+
+[20:18:58] Patient:
+I’m still here. Can you please repeat that?
+

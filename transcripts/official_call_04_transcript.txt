@@ -1,0 +1,117 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T20:56:48
+
+============================================================
+
+[20:56:54] Agent:
+This call may be recorded for quality and training purposes.
+
+[20:56:55] Patient:
+That's fine.
+
+[20:57:00] Agent:
+To the point Orthopedics, part of pretty good AI. Am I speaking with Alex?
+
+[20:57:01] Patient:
+No, this is Emily Chen.
+
+[20:57:13] Agent:
+Thanks for letting me know. Emily. Are you calling for yourself or for someone else today?
+
+[20:57:14] Patient:
+I'm calling for myself.
+
+[20:57:20] Agent:
+Please provide your date of birth.
+
+[20:57:21] Patient:
+My date of birth is November 8, 1996.
+
+[20:57:35] Agent:
+Just to confirm, I have your name as Emily Chen and your date of birth as November 8th.
+
+[20:57:36] Patient:
+That's correct.
+
+[20:57:48] Agent:
+Is that would you like to use your phone number to look up your record if so, please provide the number you have on file with us.
+
+[20:57:48] Patient:
+I don't have that information available right now.
+
+[20:57:52] Agent:
+Let me know.
+
+[20:57:54] Patient:
+Sure, thank you!
+
+[20:58:02] Agent:
+Problem could you please spell out your first and last name and confirm your date of birth 1 more time.
+
+[20:58:03] Patient:
+Of course! My name is spelled E-M-I-L-Y C-H-E-N, and my date of birth is November 8, 1996.
+
+[20:58:12] Agent:
+Go ahead and spell your first and last name and confirm your date of birth please.
+
+[20:58:16] Patient:
+Sure! My name is spelled E-M-I-L-Y C-H-E-N, and my date of birth is November 8, 1996.
+
+[20:58:24] Agent:
+Please spell, your first name, then your last name and confirm your date of birth.
+
+[20:58:25] Patient:
+My first name is spelled E-M-I-L-Y, my last name is spelled C-H-E-N, and my date of birth is November 8, 1996.
+
+[20:58:41] Agent:
+Just to confirm your first name is spelled e. M i
+
+[20:58:42] Patient:
+Actually, it's spelled E-M-I-L-Y.
+
+[20:58:49] Agent:
+Your last name is spelled c, h, e, n and your date of birth is November 8th.
+
+[20:58:50] Patient:
+That's correct!
+
+[20:58:55] Agent:
+Is that correct?
+
+[20:58:55] Patient:
+Yes, that's correct.
+
+[20:59:05] Agent:
+I have your phone, I have your phone number of 629249.
+
+[20:59:08] Patient:
+I don't have that information available right now.
+
+[20:59:14] Agent:
+November 8th 1996. Is that correct?
+
+[20:59:15] Patient:
+Yes, that's correct.
+
+[20:59:30] Agent:
+I can't proceed further right now but I can make sure our Clinic support team follows up with you. Would you like me to connect you to our patient support team?
+
+[20:59:31] Patient:
+Yes, please. That would be great.
+
+[20:59:37] Agent:
+Connecting you to a representative.
+
+[20:59:38] Patient:
+Thank you!
+
+[20:59:43] Agent:
+Hello, you reached the pretty good. AI test line, goodbye.
+
+[20:59:44] Patient:
+Hello? Is there someone there?
+

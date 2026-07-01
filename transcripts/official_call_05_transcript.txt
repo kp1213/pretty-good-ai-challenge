@@ -1,0 +1,33 @@
+============================================================
+Pretty Good AI Engineering Challenge
+Call Transcript
+============================================================
+
+Started at: 2026-06-30T21:08:29
+
+============================================================
+
+[21:08:34] Agent:
+This call may be recorded for quality and training purposes, but Espanol.
+
+[21:08:35] Patient:
+That's fine.
+
+[21:08:42] Agent:
+Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+
+[21:08:42] Patient:
+No, I'm Robert Williams.
+
+[21:08:54] Agent:
+Thanks for letting me know. Robert, are you calling for yourself or on behalf of someone else today?
+
+[21:08:55] Patient:
+I'm calling for myself. I suddenly developed chest pain and shortness of breath about 30 minutes ago.
+
+[21:09:04] Agent:
+Please provide your date of birth.
+
+[21:09:05] Patient:
+My date of birth is March 21, 1975.
+
